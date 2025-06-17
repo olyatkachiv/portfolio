@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.648c8df0.css",
+    "main.js": "/portfolio/static/js/main.797c40ae.js",
+    "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/CV-Olha-Tkachiv.pdf": "/portfolio/static/media/CV-Olha-Tkachiv.d568db1801b5401f5c08.pdf",
+    "static/media/me.png": "/portfolio/static/media/me.24d1e3a169cb42be7299.png",
+    "static/media/CoverProjectNespresso.jpg": "/portfolio/static/media/CoverProjectNespresso.6954dd87a27fa1d3286f.jpg",
+    "static/media/Nespresso-example4.jpg": "/portfolio/static/media/Nespresso-example4.6b621fffa21e0b1ddbea.jpg",
+    "static/media/NHS-example2.jpg": "/portfolio/static/media/NHS-example2.14f6eb48f03765d751a9.jpg",
+    "static/media/NHS-example4.jpg": "/portfolio/static/media/NHS-example4.cd271b34cc4fbcb3598c.jpg",
+    "static/media/NHS-example1.jpg": "/portfolio/static/media/NHS-example1.f23e357389bb18d8b40a.jpg",
+    "static/media/CH-example1.jpg": "/portfolio/static/media/CH-example1.1d25eaddbcf2816c5b69.jpg",
+    "static/media/CH-example2.jpg": "/portfolio/static/media/CH-example2.f4a5860b79c7aa6adec0.jpg",
+    "static/media/Custom-Hub-cover.jpg": "/portfolio/static/media/Custom-Hub-cover.bea99b35aebf1bd3e2fd.jpg",
+    "static/media/Flowers-Cover.jpg": "/portfolio/static/media/Flowers-Cover.0e419b223a3174091f97.jpg",
+    "static/media/CoverProjectNHS.jpg": "/portfolio/static/media/CoverProjectNHS.bb8dffc1096c179cc136.jpg",
+    "static/media/Nespresso-example3.jpg": "/portfolio/static/media/Nespresso-example3.5eb2f0b0c045be2d0fa8.jpg",
+    "static/media/CH-example3.jpg": "/portfolio/static/media/CH-example3.f7015a840ec22b785010.jpg",
+    "static/media/Nespresso-example2.jpg": "/portfolio/static/media/Nespresso-example2.008773a060bb267091a5.jpg",
+    "static/media/Flowers-example2.jpg": "/portfolio/static/media/Flowers-example2.4976a381fe8bc5860235.jpg",
+    "static/media/NHS-example5.jpg": "/portfolio/static/media/NHS-example5.31b8e48ee66d37a99138.jpg",
+    "static/media/NHS-example3.jpg": "/portfolio/static/media/NHS-example3.45caecfd08385dccceb1.jpg",
+    "static/media/Flowers-example1.jpg": "/portfolio/static/media/Flowers-example1.1480ce63ba9357c8458d.jpg",
+    "static/media/Nespresso-example1.jpg": "/portfolio/static/media/Nespresso-example1.24873c82bd1f26735bd0.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "index.html": "/portfolio/index.html",
+    "main.648c8df0.css.map": "/portfolio/static/css/main.648c8df0.css.map",
+    "main.797c40ae.js.map": "/portfolio/static/js/main.797c40ae.js.map",
+    "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.648c8df0.css",
+    "static/js/main.797c40ae.js"
+  ]
+}
