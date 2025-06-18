@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.648c8df0.css",
-    "main.js": "/portfolio/static/js/main.797c40ae.js",
+    "main.css": "/portfolio/static/css/main.84b1d64d.css",
+    "main.js": "/portfolio/static/js/main.feb32d65.js",
     "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
     "static/media/CV-Olha-Tkachiv.pdf": "/portfolio/static/media/CV-Olha-Tkachiv.d568db1801b5401f5c08.pdf",
     "static/media/me.png": "/portfolio/static/media/me.24d1e3a169cb42be7299.png",
@@ -27,12 +27,12 @@
     "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/portfolio/index.html",
-    "main.648c8df0.css.map": "/portfolio/static/css/main.648c8df0.css.map",
-    "main.797c40ae.js.map": "/portfolio/static/js/main.797c40ae.js.map",
+    "main.84b1d64d.css.map": "/portfolio/static/css/main.84b1d64d.css.map",
+    "main.feb32d65.js.map": "/portfolio/static/js/main.feb32d65.js.map",
     "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.648c8df0.css",
-    "static/js/main.797c40ae.js"
+    "static/css/main.84b1d64d.css",
+    "static/js/main.feb32d65.js"
   ]
 }
