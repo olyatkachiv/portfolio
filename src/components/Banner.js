@@ -44,10 +44,10 @@ export const Banner = () => {
     }
   }, [delta, tick])
 
-  const scrollToSkills = () => {
-    const skillsSection = document.getElementById("skills")
-    if (skillsSection) {
-      skillsSection.scrollIntoView({
+  const scrollToConnect = () => {
+    const connectSection = document.getElementById("connect")
+    if (connectSection) {
+      connectSection.scrollIntoView({
         behavior: "smooth",
         block: "start",
       })
@@ -67,18 +67,20 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <div>
               <span className="tagline">Crafting Interfaces with Vision</span>
-              <h1>
-                {`Hi, I'm Olha`}{" "}
-                <span className="txt-rotate">
-                  <span className="wrap">{text}</span>
-                </span>
-              </h1>
+              <div className="hero-text-container">
+                <h1>
+                  {`Hi, I'm Olha`}{" "}
+                  <span className="txt-rotate">
+                    <span className="wrap">{text}</span>
+                  </span>
+                </h1>
+              </div>
               <p>
                 Passionate about design, I build beautiful, responsive web interfaces with purpose. I blend clean code
                 with clear communication, always putting the user first. With experience in leading small teams and
                 project coordination, I bring structure and creativity to every build.
               </p>
-              <button onClick={scrollToSkills} type="button">
+              <button onClick={scrollToConnect} type="button">
                 Let's Connect <ArrowRightCircle size={25} />
               </button>
             </div>
@@ -92,7 +94,7 @@ export const Banner = () => {
           </Col>
         </Row>
       </Container>
-      <div className="banner-divider" onClick={scrollToSkills}>
+      <div className="banner-divider" onClick={scrollToConnect}>
         <div className="divider-icon"></div>
         <div className="divider-icon"></div>
         <div className="divider-icon"></div>

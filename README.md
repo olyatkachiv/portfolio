@@ -32,7 +32,7 @@ Visit the live portfolio: [Your Portfolio URL Here]
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://olyatkachiv.github.io/portfolio
    cd portfolio
    \`\`\`
 
