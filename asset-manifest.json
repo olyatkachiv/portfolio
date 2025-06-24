@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.84b1d64d.css",
-    "main.js": "/portfolio/static/js/main.feb32d65.js",
-    "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "main.js": "/portfolio/static/js/main.58754d8c.js",
     "static/media/CV-Olha-Tkachiv.pdf": "/portfolio/static/media/CV-Olha-Tkachiv.d568db1801b5401f5c08.pdf",
     "static/media/me.png": "/portfolio/static/media/me.24d1e3a169cb42be7299.png",
     "static/media/CoverProjectNespresso.jpg": "/portfolio/static/media/CoverProjectNespresso.6954dd87a27fa1d3286f.jpg",
@@ -28,11 +27,10 @@
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/portfolio/index.html",
     "main.84b1d64d.css.map": "/portfolio/static/css/main.84b1d64d.css.map",
-    "main.feb32d65.js.map": "/portfolio/static/js/main.feb32d65.js.map",
-    "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
+    "main.58754d8c.js.map": "/portfolio/static/js/main.58754d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.84b1d64d.css",
-    "static/js/main.feb32d65.js"
+    "static/js/main.58754d8c.js"
   ]
 }
