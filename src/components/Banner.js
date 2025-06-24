@@ -54,6 +54,16 @@ export const Banner = () => {
     }
   }
 
+  const scrollToNextSection = () => {
+    const skillsSection = document.getElementById("skills")
+    if (skillsSection) {
+      skillsSection.scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      })
+    }
+  }
+
   return (
     <section className="banner" id="home">
       <div className="banner-background">
@@ -94,7 +104,7 @@ export const Banner = () => {
           </Col>
         </Row>
       </Container>
-      <div className="banner-divider" onClick={scrollToConnect}>
+      <div className="banner-divider" onClick={scrollToNextSection}>
         <div className="divider-icon"></div>
         <div className="divider-icon"></div>
         <div className="divider-icon"></div>
